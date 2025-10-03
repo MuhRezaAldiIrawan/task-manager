@@ -4,9 +4,8 @@ A full-stack task management application built with Vue.js and Express.js, featu
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Your Vercel URL]
-- **Backend API**: [Your Railway/Render URL]
-- **Repository**: [Your GitHub URL]
+- **Frontend**: https://task-manager-pearl-theta.vercel.app
+- **Backend API**: https://task-manager-production-57e6.up.railway.app
 
 ## 📋 Features
 
